@@ -27,4 +27,4 @@ github_username:  kunishi
 # Build settings
 markdown: kramdown
 theme: minima
-exclude: [vendor, Gemfile, Gemfile.lock, .DS_Store]
+exclude: [script, vendor, Gemfile, Gemfile.lock, .DS_Store]
