@@ -36,4 +36,8 @@ $on-laptop:        800px;
 // }
 
 // Import partials from the `minima` theme.
-@import "minima";
+@import
+        "base",
+        "layout",
+        "syntax-highlighting",
+        "minima";
