@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: 第48回全日本合唱コンクール関東支部大会の結果
-date: 1995-10-08 23:00:00 +0900
-category: concours
-tags: jca, 48th-ajcl
 ---
 ○は、全国大会出場団体を示します。
 

@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: 第48回全日本合唱コンクール全国大会中学の部の結果
-date: 1995-10-29 23:00:00 +0900
-category: concours
-tags: jca, 48th-ajcl
 ---
 1995/10/29, 東京・昭和女子大学人見記念講堂
 
