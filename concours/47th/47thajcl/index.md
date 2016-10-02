@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: 第47回全日本合唱コンクール全国大会の結果
-date: 1994-11-27 23:00:00 +0900
-category: concours
-tags: jca, 47th-ajcl
 ---
 - 開催日  
   - 1994年11月25〜27日
