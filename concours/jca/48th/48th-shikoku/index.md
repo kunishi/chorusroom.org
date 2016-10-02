@@ -1,9 +1,6 @@
 ---
-layout: post
+layout: page
 title: 第48回全日本合唱コンクール四国支部大会の結果
-date: 1995-09-03 23:00:00 +0900
-category: concours
-tags: jca, 48th-ajcl
 ---
 1995/09/03, 徳島市文化センター
 
