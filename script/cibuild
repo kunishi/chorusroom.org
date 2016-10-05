@@ -3,4 +3,4 @@ set -e
 
 gem install bundler
 bundle exec jekyll build --destination ./_site/chorusroom.org
-bundle exec htmlproofer ./_site --allow-hash-href --empty-alt-ignore
+#bundle exec htmlproofer ./_site --allow-hash-href --empty-alt-ignore
