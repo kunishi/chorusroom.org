@@ -27,5 +27,5 @@ github_username:  kunishi
 # Build settings
 markdown: kramdown
 theme: minima
-exclude: [script, vendor, Gemfile, Gemfile.lock, .DS_Store]
+exclude: [script, vendor, Gemfile, Gemfile.lock, Rakefile, .DS_Store]
 timezone: Asia/Tokyo

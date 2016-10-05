@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'html-proofer'
-HTMLProofer.chck_directory("./_site").run
+opt = {:allow_hash_href => true, :empty_alt_ignore => true}
+HTMLProofer.check_directory("./_site", opt).run
