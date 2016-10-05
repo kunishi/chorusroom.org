@@ -1,0 +1,6 @@
+#!/bin/bash
+
+URLPATH=$1
+wget -x -nH http://chorusroom.org/${URLPATH} &&
+  pandoc -f html -t markdown_github -o ${URLPATH}index.md ${URLPATH}index.html &&
+  rm ${URLPATH}index.html
