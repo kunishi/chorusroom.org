@@ -19,8 +19,6 @@ title: 第59回関東合唱コンクール
 
 渡辺三郎
 
-<a href="http://www1.ocn.ne.jp/%7Ejcanigat/2004/tyuukon.pdf" class="broken_link">採点表が公開</a>されています(PDF形式)。
-
 中学校部門・混声の部
 --------------------
 
