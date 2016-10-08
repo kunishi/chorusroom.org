@@ -9,7 +9,7 @@ date: 2016-10-07 10:02:00 +0900
 
 コンテンツの移行先は以下のようになります。
 
-- コンクール結果: [https://kunishi.github.io/chorusroom.org/](https://kunishi/github.io/chorusroom.org/)
+- コンクール結果: [https://kunishi.github.io/chorusroom.org/](https://kunishi.github.io/chorusroom.org/)
 - ブログ: [https://medium.com/blog-chorusroom-org](https://medium.com/blog-chorusroom-org)
 
 「合唱の部屋」を積極的に運用していた頃とは違い、現在は合唱活動はほとんど
