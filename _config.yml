@@ -28,3 +28,5 @@ markdown: kramdown
 theme: minima
 exclude: [script, vendor, Gemfile, Gemfile.lock, Rakefile, .DS_Store]
 timezone: Asia/Tokyo
+gems:
+  - jekyll-sitemap
